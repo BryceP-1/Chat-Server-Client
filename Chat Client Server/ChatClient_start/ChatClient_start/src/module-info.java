@@ -1,4 +1,4 @@
-module Lab14A_ChatClient_start {
+module ChatClient_start {
 	requires javafx.controls;
 	requires java.desktop;
 	
