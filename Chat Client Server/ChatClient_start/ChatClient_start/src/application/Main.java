@@ -1,10 +1,6 @@
 package application;
 /**
- *   OOPDA Lab14A Chat Client
- *   Simple Chat Client  
- *   adapted from HeadFirst java
- *   converted to JavaFX for OOPDA
- *  
+ * 
  *   static constants
  *       IP_ADDRESS and PORT_NUM 
  *   can be changed
